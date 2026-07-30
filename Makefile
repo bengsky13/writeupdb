@@ -1,4 +1,4 @@
-SHELL := /bin/zsh
+SHELL := /bin/sh
 
 setup:
 	python3 -m venv .venv
