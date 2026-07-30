@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "external_id": "package-pickle-deserialization-source",
+  "title": "Package Pickle Deserialization with Source",
+  "event": "SeedCTF",
+  "event_year": 2026,
+  "challenge": "picklebox",
+  "category": "web",
+  "difficulty": "medium",
+  "authors": ["seed"],
+  "team": "Synthetic",
+  "language": "en",
+  "content_file": "content.md",
+  "content_format": "markdown",
+  "source_reference": "feeding-agent",
+  "published_at": "2026-02-21T12:00:00Z",
+  "attachments": [
+    {
+      "path": "attachments/solve.py",
+      "type": "exploit",
+      "language": "python"
+    },
+    {
+      "path": "attachments/gadget.py",
+      "type": "helper",
+      "language": "python"
+    }
+  ]
+}
